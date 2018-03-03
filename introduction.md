@@ -22,3 +22,28 @@ The expected implementation pf VDES is provided in Figure [Implementation of VDE
 <a name="fig-implementation-of-vdes"></a>![Implementation of VDES](pictures/implementation_of_vdes.png)
 ---
 *Implementation of VDES*
+
+The introduction of VDES is expected to happen through four operational phases:
+
+1.	(2016) AIS exists as defined by ITU.R M.1371-5 on the AIS frequencies, and Coastal Stations use the ASM and VDE frequencies for Voice VHF.
+
+1.	(2017-2018) Post WRC-15 - AIS+ASM: Regionally, where there is an urgent need for offloading the AIS VDL from significant ASM traffic, it is recommended to allow the introduction of 4-channel AIS + ASM devices. These devices may receive and transmit ASM on the ASM1 and ASM2 frequencies, but shall discontinue their transmit capability, using the existing GMSK modulation after January 1st 2019 unless a software upgrade enables them to participate in the modulation and access scheme agreed for the ASM frequencies according Recommendation ITU-R M.2092. Note that the ASM frequencies will need to be shared with the VHF voice service from Coast Stations in many areas during this time frame.
+
+1.	(2019) the WRC-19 will consider and decide regarding VDE-SAT. 
+
+1.	(2019-2020) Post WRC-19 operational capability established. Note that both the ASM and VDE frequencies may still need to be shared with the voice VHF service in many areas.
+
+1.	(2021+) When a satellite service is developed, full operational capability of the VDES including the Satellite frequencies can be achieved.
+
+## Document Structure
+The document is provided in a series of Annexes.
+
+Annex A - provides common technical elements of VDES
+
+Annex B - describes the technical characteristics of the ASM channel that will support applications specific messages in order to improve the efficiency of application-specific message transmissions and to protect the original function of the AIS.  The ASM channels will also support a satellite uplink.
+
+Annex C - describes the technical characteristics of the VDE terrestrial channels providing an efficient terrestrial data transfer link enabling a wide variety of applications for the maritime community.
+
+Annex D - describes the technical characteristics of VDE-SAT Service that will support multi-cast multi-package data transfers and shore originated unicast multi-package data transfers via satellite.
+
+Annex E - describes the characteristics necessary for each component of the VDES to share the available spectrum such that impact between services is minimized and AIS is respected.
