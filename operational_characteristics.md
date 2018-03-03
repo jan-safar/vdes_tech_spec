@@ -23,6 +23,6 @@ A detailed overview of VDES, and VDES operations, is provided in IALA Guideline 
 ## VDES Functions and Frequency Usage
 The system concept, including VDES functions and frequency usage are illustrated pictorially in Figure 2 (full system).  Please note – SAT Up is received only by Satellite.
 
-![VDES functions and frequency use - full system](#pictures/vdes_functions_and_frequency_use_-_full_system.png)
+![VDES functions and frequency use - full system](pictures/vdes_functions_and_frequency_use_-_full_system.png)
 ---
 *VDES functions and frequency use - full system*
