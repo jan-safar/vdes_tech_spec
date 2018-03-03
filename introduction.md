@@ -19,6 +19,6 @@ Consequential to WRC-15, the ITU standard for VDES, Recommendation ITU-R M.2092-
 
 The expected implementation pf VDES is provided in Figure [Implementation of VDES](#fig-implementation-of-vdes).
 
-![Implementation of VDES](pictures/implementation_of_vdes.png)
+<a name="fig-implementation-of-vdes"></a>![Implementation of VDES](pictures/implementation_of_vdes.png)
 ---
-<a name="fig-implementation-of-vdes"></a>*Implementation of VDES*
+*Implementation of VDES*
