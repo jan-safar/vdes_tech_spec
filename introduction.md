@@ -47,3 +47,7 @@ Annex C - describes the technical characteristics of the VDE terrestrial channel
 Annex D - describes the technical characteristics of VDE-SAT Service that will support multi-cast multi-package data transfers and shore originated unicast multi-package data transfers via satellite.
 
 Annex E - describes the characteristics necessary for each component of the VDES to share the available spectrum such that impact between services is minimized and AIS is respected.
+
+![Caption.](pictures/implementation_of_vdes.png){#fig:id}
+
+This is a reference to Figure @fig:id
