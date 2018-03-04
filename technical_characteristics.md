@@ -31,3 +31,8 @@ AIS 2	| 162.025	| 162.025
 86 | 157.325 (1086)	| 161.925 (2086)
 
 Table: RR Appendix 18 channels for VHF data exchange systems applications: Automatic identification system, application specific messages, VHF data exchange {#tbl:RR_Appendix_18_channels_for_VDES_applications}
+
+## VHF Data Exchange System Functions and Frequency Usage Engineer's Perspective
+The VDES functions and frequency usage from an engineer’s perspective are illustrated pictorially in {\*@fig:VHF_data_exchange_system_functions_and_frequency_usage}.
+
+![VHF data exchange system functions and frequency usage engineer’s perspective](pictures/vhf_data_exchange_system_functions_and_frequency_usage.emf){#fig:VHF_data_exchange_system_functions_and_frequency_usage}
