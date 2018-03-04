@@ -17,7 +17,7 @@ Both voice and data communications coexist in the VHF marine band.  The developm
 
 Consequential to WRC-15, the ITU standard for VDES, Recommendation ITU-R M.2092-0, was approved.  A remaining outstanding issue is the approval of the satellite component for the VDE channels which is targeted for approval at WRC-19.
 
-The expected implementation pf VDES is provided in \*@fig:Implementation_of_VDES.
+The expected implementation pf VDES is provided in {\*@fig:Implementation_of_VDES}.
 
 ![Implementation of VDES.](pictures/implementation_of_vdes.png){#fig:Implementation_of_VDES}
 
