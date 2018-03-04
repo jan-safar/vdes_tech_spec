@@ -21,8 +21,6 @@ In general, VDES should meet the following:
 A detailed overview of VDES, and VDES operations, is provided in IALA Guideline 1117 (latest edition).  In essence, The VDES provides a variety of means for the exchange of data between maritime stations, ship-to-ship, ship-to-shore, shore-to ship, ship-to-satellite and satellite-to-ship. The VDES functionally includes the AIS, either by integration, by interface connection or by radio frequency connection.  
 
 ## VDES Functions and Frequency Usage
-The system concept, including VDES functions and frequency usage are illustrated pictorially in Figure 2 (full system).  Please note – SAT Up is received only by Satellite.
+The system concept, including VDES functions and frequency usage are illustrated pictorially in {\*@fig:VDES_functions_and_frequency_use} (full system).  Please note – SAT Up is received only by Satellite.
 
-![VDES functions and frequency use - full system](pictures/vdes_functions_and_frequency_use_-_full_system.png)
----
-*VDES functions and frequency use - full system*
+![VDES functions and frequency use - full system](pictures/vdes_functions_and_frequency_use_-_full_system.png){#fig:VDES_functions_and_frequency_use}
