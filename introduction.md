@@ -17,11 +17,9 @@ Both voice and data communications coexist in the VHF marine band.  The developm
 
 Consequential to WRC-15, the ITU standard for VDES, Recommendation ITU-R M.2092-0, was approved.  A remaining outstanding issue is the approval of the satellite component for the VDE channels which is targeted for approval at WRC-19.
 
-The expected implementation pf VDES is provided in Figure [Implementation of VDES](#fig-implementation-of-vdes).
+The expected implementation pf VDES is provided in *@fig:Implementation_of_VDES.
 
-<a name="fig-implementation-of-vdes"></a>![Implementation of VDES](pictures/implementation_of_vdes.png)
----
-*Implementation of VDES*
+![Implementation of VDES.](pictures/implementation_of_vdes.png){#fig:Implementation_of_VDES}
 
 The introduction of VDES is expected to happen through four operational phases:
 
@@ -47,7 +45,3 @@ Annex C - describes the technical characteristics of the VDE terrestrial channel
 Annex D - describes the technical characteristics of VDE-SAT Service that will support multi-cast multi-package data transfers and shore originated unicast multi-package data transfers via satellite.
 
 Annex E - describes the characteristics necessary for each component of the VDES to share the available spectrum such that impact between services is minimized and AIS is respected.
-
-![Caption.](pictures/implementation_of_vdes.png){#fig:id}
-
-This is a reference to Figure @fig:id
