@@ -17,17 +17,16 @@ Both voice and data communications coexist in the VHF marine band.  The developm
 
 Consequential to WRC-15, the ITU standard for VDES, Recommendation ITU-R M.2092-0, was approved.  A remaining outstanding issue is the approval of the satellite component for the VDE channels which is targeted for approval at WRC-19.
 
-The expected implementation pf VDES is provided in *@fig:Implementation_of_VDES.
-
+The expected implementation pf VDES is provided in \*@fig:Implementation_of_VDES.
 ![Implementation of VDES.](pictures/implementation_of_vdes.png){#fig:Implementation_of_VDES}
 
 The introduction of VDES is expected to happen through four operational phases:
 
-1. (2016) AIS exists as defined by ITU.R M.1371-5 on the AIS frequencies, and Coastal Stations use the ASM and VDE frequencies for Voice VHF.
+1. \(2016) AIS exists as defined by ITU.R M.1371-5 on the AIS frequencies, and Coastal Stations use the ASM and VDE frequencies for Voice VHF.
 
 1. (2017-2018) Post WRC-15 - AIS+ASM: Regionally, where there is an urgent need for offloading the AIS VDL from significant ASM traffic, it is recommended to allow the introduction of 4-channel AIS + ASM devices. These devices may receive and transmit ASM on the ASM1 and ASM2 frequencies, but shall discontinue their transmit capability, using the existing GMSK modulation after January 1st 2019 unless a software upgrade enables them to participate in the modulation and access scheme agreed for the ASM frequencies according Recommendation ITU-R M.2092. Note that the ASM frequencies will need to be shared with the VHF voice service from Coast Stations in many areas during this time frame.
 
-1. (2019) the WRC-19 will consider and decide regarding VDE-SAT. 
+1. \(2019) the WRC-19 will consider and decide regarding VDE-SAT. 
 
 1. (2019-2020) Post WRC-19 operational capability established. Note that both the ASM and VDE frequencies may still need to be shared with the voice VHF service in many areas.
 
