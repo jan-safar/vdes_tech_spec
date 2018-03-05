@@ -15,6 +15,6 @@
 * ...
 
 ## Export to Other Formats
-* [Word document - pandoc template](output/technical_specification_of_vdes-pandoc.docx)
+* [Word document - pandoc template](raw/master/output/technical_specification_of_vdes-pandoc.docx)
 
-* [Word document - IALA template](output/technical_specification_of_vdes-iala.docx)
+* [Word document - IALA template](raw/master/output/technical_specification_of_vdes-iala.docx)
