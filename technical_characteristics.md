@@ -35,4 +35,4 @@ Table: RR Appendix 18 channels for VHF data exchange systems applications: Autom
 ## VHF Data Exchange System Functions and Frequency Usage Engineer's Perspective
 The VDES functions and frequency usage from an engineer’s perspective are illustrated pictorially in {\*@fig:VHF_data_exchange_system_functions_and_frequency_usage}.
 
-![VHF data exchange system functions and frequency usage engineer’s perspective](pictures/vhf_data_exchange_system_functions_and_frequency_usage.emf){#fig:VHF_data_exchange_system_functions_and_frequency_usage}
+![VHF data exchange system functions and frequency usage engineer’s perspective](pictures/vhf_data_exchange_system_functions_and_frequency_usage.png){#fig:VHF_data_exchange_system_functions_and_frequency_usage}
